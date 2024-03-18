@@ -13,6 +13,6 @@ public class Lab009 {
         i1=99;
         System.out.println(i1);
         String s1="Suraksha";
-        
+
     }
 }
